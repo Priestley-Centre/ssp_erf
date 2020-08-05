@@ -1,0 +1,3 @@
+pyam-iamc==0.2.0
+pymagicc==2.0.0b5
+tqdm==4.36.1
