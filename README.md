@@ -1,10 +1,9 @@
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/Priestley-Centre/ssp_erf)
 [![DOI](https://zenodo.org/badge/216068177.svg)](https://zenodo.org/badge/latestdoi/216068177)
 
-# ssp_erf
-Effective radiative forcing time series from the Shared Socioeconomic Pathways.
+# Effective radiative forcing from the Shared Socioeconomic Pathways
 
-14 components included, largely based on the components reported in the [IPCC's Fifth Assessment Report Annex II](https://www.ipcc.ch/site/assets/uploads/2017/09/WG1AR5_AnnexII_FINAL.pdf) forcing time series, with additional granularity (CH4 and N2O reported individually, and aerosol-radiation and aerosol-cloud interactions also reported individually).
+14 components are reported, largely based on the components reported in the [IPCC's Fifth Assessment Report Annex II](https://www.ipcc.ch/site/assets/uploads/2017/09/WG1AR5_AnnexII_FINAL.pdf) forcing time series, with additional granularity (CH4 and N2O reported individually, and aerosol-radiation and aerosol-cloud interactions also reported individually).
 
 The baseline year used is 1750 and forcings are reported until 2500.
 
